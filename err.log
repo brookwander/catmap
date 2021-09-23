@@ -1,0 +1,166 @@
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CHOH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CHOH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CHO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CHO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for OH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: OH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CH2O_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CH2O_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3-OH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3-OH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CHOH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CHOH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CH2OH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CH2OH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3-CO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3-CO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-OH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-OH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH2CO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH2CO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH2O_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH2O_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH2OH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH2OH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CHCO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CHCO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CHOH-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CHOH-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CHO-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CHO-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CH2OH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CH2OH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CHO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CHO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CHO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CHO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH-CO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH-CO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3CHOH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3CHOH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CHOH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CHOH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&OH_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&OH_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH-OH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH-OH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CHO_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CHO_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH2_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH2_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH2-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH2-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CH3CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CH3CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3O_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3O_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CH2CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CH2CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H_h. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H_h
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&H-CHCO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&H-CHCO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CO_s&HCO-H_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CO_s&HCO-H_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:378: UserWarning: Number of energies specified is less than the numberof free parameters for CH3O-H_s&CO_s. Scaling is not reliableunless parameters are explicitly specified in  constraints_dict.
+  'of free parameters for '+ads+'. Scaling is not reliable'
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/functions.py:415: UserWarning: Assuming constant value for: CH3O-H_s&CO_s
+  warnings.warn('Assuming constant value for: '+ads)
+/nfs/slac/g/suncatfs/sw/catmap/v16/catmap/thermodynamics/enthalpy_entropy.py:451: UserWarning: HarmonicThermo.get_free_energy is deprecated.Update your ASE version.
+  warnings.warn('HarmonicThermo.get_free_energy is deprecated.'
